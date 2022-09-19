@@ -7,3 +7,30 @@
 header{
     background-color: lightgray;
 }
+
+.container-intro{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.menù{
+    background-color: green;
+}
+
+.side{
+   flex-basis: 20%; 
+}
+
+.center{
+    flex-basis: 40%;
+    width: auto;
+}
+
+.container-header{
+    width: 60%;
+    background-color: orange;
+    margin: auto;
+
+}
