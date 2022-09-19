@@ -32,16 +32,22 @@ header{
     width: 60%;
     background-color: orange;
     margin: auto;
-    height: 150px;
+    height: 200px;
 }
 
 .img{
     flex-basis: 50%;
     background-color: lightgreen;
+    margin: 0px 10px;
 }
 
 .text{
     flex-basis: 50%;
     background-color: green;
+    margin: 0px 10px;
+    height: 300px;
 }
 
+.reverse{
+    flex-direction: row-reverse;
+}
