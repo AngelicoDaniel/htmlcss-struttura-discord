@@ -76,12 +76,13 @@ header{
 .social{
     flex-basis: 30%;
     background-color: red;
-    height: 200px;
+    height: 300px;
     
 }
 
 .f-column{
     flex-basis: 20%;
     background-color: brown;
-    margin: 1px black;
+    margin: 10px black;
+    padding: 20px;
 }
