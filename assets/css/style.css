@@ -72,3 +72,9 @@ header{
     height: 100px;
     background-color: lightblue;
 }
+
+.f-column{
+    flex-basis: auto;
+    height: 500px;
+    margin: 1px red;
+}
