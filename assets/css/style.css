@@ -86,3 +86,9 @@ header{
     margin: 10px black;
     padding: 20px;
 }
+
+.blue {
+    align-items: flex-end;
+    background-color: blue;
+}
+
