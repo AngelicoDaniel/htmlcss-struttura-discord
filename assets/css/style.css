@@ -34,6 +34,7 @@ header{
     background-color: orange;
     margin: auto;
     height: 200px;
+   
 }
 
 .img{
@@ -51,6 +52,8 @@ header{
 
 .reverse{
     flex-direction: row-reverse;
+    
+    
 }
 
 .gray{
@@ -91,4 +94,5 @@ header{
     align-items: flex-end;
     background-color: blue;
 }
+
 
