@@ -33,5 +33,15 @@ header{
     background-color: orange;
     margin: auto;
     height: 150px;
-
 }
+
+.img{
+    flex-basis: 50%;
+    background-color: lightgreen;
+}
+
+.text{
+    flex-basis: 50%;
+    background-color: green;
+}
+
