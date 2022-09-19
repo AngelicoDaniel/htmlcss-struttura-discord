@@ -51,3 +51,7 @@ header{
 .reverse{
     flex-direction: row-reverse;
 }
+
+.gray{
+    background-color: gray;
+}
