@@ -26,6 +26,7 @@ header{
 .center{
     flex-basis: 40%;
     width: auto;
+
 }
 
 .container-header{
@@ -58,4 +59,16 @@ header{
 
 .column{
     flex-direction: column;
+}
+
+.text2{
+    flex-basis: auto;
+    height: 100px;
+    background-color: blue;
+}
+
+.img2{
+    flex-basis: auto;
+    height: 100px;
+    background-color: lightblue;
 }
