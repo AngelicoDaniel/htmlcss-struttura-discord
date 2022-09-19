@@ -55,3 +55,7 @@ header{
 .gray{
     background-color: gray;
 }
+
+.column{
+    flex-direction: column;
+}
