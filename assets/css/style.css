@@ -73,8 +73,15 @@ header{
     background-color: lightblue;
 }
 
+.social{
+    flex-basis: 30%;
+    background-color: red;
+    height: 200px;
+    
+}
+
 .f-column{
-    flex-basis: auto;
-    height: 500px;
-    margin: 1px red;
+    flex-basis: 20%;
+    background-color: brown;
+    margin: 1px black;
 }
